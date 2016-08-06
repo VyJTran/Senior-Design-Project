@@ -18,7 +18,10 @@ set(gca, 'xlim', [0 200],'ylim', [0 1.01],'FontSize', 12);  % redefines limits o
 
 energy = sum(GreenFFT.Y(E_LB:E_RB).^2); % energy 
 noise = sum(GreenFFT.Y.^2)-energy;% noise
-SNR = energy/noise % SNR
+SNR = energy/noise % SNR  ( gitHub testing for recording)
+
+
+
 
 
 
