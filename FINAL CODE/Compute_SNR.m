@@ -22,5 +22,4 @@ SNR = energy/noise % SNR
 
 
 
-
 %-- 7/30/2014 3:52 PM --%
