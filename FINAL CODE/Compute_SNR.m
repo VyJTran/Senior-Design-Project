@@ -21,7 +21,7 @@ noise = sum(GreenFFT.Y.^2)-energy;% noise
 SNR = energy/noise % SNR 
 
 
-
+% Hello github team
 
 
 
