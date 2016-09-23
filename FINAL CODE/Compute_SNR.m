@@ -21,13 +21,6 @@ noise = sum(GreenFFT.Y.^2)-energy;% noise
 SNR = energy/noise % SNR 
 
 
-<<<<<<< Updated upstream
-% Hello github team, i wonder if this change can be seen on slack
-=======
-% jfhdkjhf
->>>>>>> Stashed changes
-
-
 
 
 
